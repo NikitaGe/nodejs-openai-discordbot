@@ -4,4 +4,4 @@
 
 2.create an OPENAI APIKEY
 
-3.replace the placeholders of the beginning of your programm
+3.replace the placeholders at the beginning of your programm
